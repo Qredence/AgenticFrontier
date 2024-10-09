@@ -41,10 +41,11 @@ This section hosts various open-source libraries and utilities designed for work
 .
 ├── experiments/
 │   ├── architecture_agents/
-│   ├── foundation_models/
+│   ├── LLM_KG_lab/
 │   ├── graph_RAG_systems/
 │   ├── agent_theories/
 │   └── agent_tools/
+│   └── prompty_agent/
 ├── papers/
 │   ├── architecture_agents/
 │   ├── foundation_models/
