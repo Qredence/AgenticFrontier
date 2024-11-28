@@ -70,14 +70,14 @@ We welcome contributions from researchers and developers worldwide! If you’ve 
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/AgenticFrontier.git
+    git clone https://github.com/Qredence/AgenticFrontier.git
     ```
 
 2. **Install dependencies:**
     You can install the necessary Python packages from the `requirements.txt` file:
-    ```bash
-    pip install -r requirements.txt
-    ```
+   ```bash
+   ***SOON pip install -r requirements.txt SOON***
+   ```
 
 3. **Explore experiments:**
     Browse the `experiments/` folder to start exploring pre-built agents and run your own experiments.
