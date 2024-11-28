@@ -53,6 +53,14 @@ This section hosts various open-source libraries and utilities designed for work
 │   ├── agent_theories/
 │   └── agent_tools/
 └── notebooks/
+    ├── architecture_agents/
+    ├── foundation_models/
+    ├── graph_RAG_systems/
+    ├── agent_theories/
+    ├── agent_tools/
+    ├── data_analysis/
+    ├── model_training/
+    └── visualizations/
 ```
 
 - **/experiments/**: Code and notebooks for testing agentic system prototypes and architectures.
