@@ -94,8 +94,8 @@ This repository is fully open-source under the MIT License. Please feel free to 
 
 ## **Contact**
 Feel free to reach out if you have questions or suggestions:
-- Email: your-email@example.com
-- Twitter: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
+- Email: contact@qredence.ai
+- Twitter: [@agenticfleet](https://twitter.com/agenticfleet)
 
 ---
 
