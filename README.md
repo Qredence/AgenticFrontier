@@ -10,14 +10,14 @@ This repository is designed for researchers, developers, and enthusiasts in the 
 - Sharing **open-source tools and notebooks** to foster collaborative development.
 - Curating and categorizing **the latest scientific research** on agent systems.
 
----
-
 ## **Repository Contents**
 
 ### 1. **🧠 Agent Experiments**
+
 Explore a collection of notebooks and codebases where we experiment with various types of agents. Whether it's a reinforcement learning-based agent or a new approach to multi-agent collaboration, you'll find the latest prototypes and tests here.
 
 ### 2. **📚 Latest Research Papers**
+
 We’ve curated a selection of the most cutting-edge scientific papers in the following categories:
 
 - **Architecture Agents:** Papers focusing on how agent structures and frameworks are designed, including hierarchical agents, modular agents, and emergent systems.
@@ -29,7 +29,9 @@ We’ve curated a selection of the most cutting-edge scientific papers in the fo
 Each paper is annotated with a summary, relevance, and links to both the official publication and any open-source implementations (where available).
 
 ### 3. **⚙️ Open-Source Tools**
+
 This section hosts various open-source libraries and utilities designed for working with multi-agent systems. You’ll find frameworks for:
+
 - Agent-based simulations
 - Multi-agent reinforcement learning
 - Communication and negotiation between agents
@@ -37,6 +39,7 @@ This section hosts various open-source libraries and utilities designed for work
 - Model-driven agent development tools
 
 ### 4. **📁 Directory Structure**
+
 ```bash
 .
 ├── experiments/
@@ -44,71 +47,64 @@ This section hosts various open-source libraries and utilities designed for work
 │   ├── LLM_KG_lab/
 │   ├── graph_RAG_systems/
 │   ├── agent_theories/
-│   └── agent_tools/
+│   ├── agent_tools/
 │   └── prompty_agent/
-├── papers/
+├── notebooks/
+│   ├── architecture_agents/
+│   ├── foundation_models/
+│   ├── graph_RAG_systems/
+│   ├── agent_theories/
+│   ├── agent_tools/
+│   ├── data_analysis/
+│   ├── model_training/
+│   └── visualizations/
+├── papers-agentic/
 │   ├── architecture_agents/
 │   ├── foundation_models/
 │   ├── graph_RAG_systems/
 │   ├── agent_theories/
 │   └── agent_tools/
-└── notebooks/
-    ├── architecture_agents/
-    ├── foundation_models/
-    ├── graph_RAG_systems/
-    ├── agent_theories/
-    ├── agent_tools/
-    ├── data_analysis/
-    ├── model_training/
-    └── visualizations/
+└── paper-societal-impact/
+    ├── ai-on-work/
+    ├── finance/
+    ├── healthcare/
+    └── human-interaction/
 ```
 
 - **/experiments/**: Code and notebooks for testing agentic system prototypes and architectures.
-- **/papers/**: A well-organized collection of research papers, categorized by topic.
+- **/papers-agentic/**: A well-organized collection of research papers, categorized by topic.
 - **/notebooks/**: Interactive Jupyter notebooks for exploring specific research areas or implementing multi-agent scenarios.
-
----
+- **/paper-societal-impact/**: Research papers on the societal impact of AI, categorized by domain.
 
 ## **Contributions**
-We welcome contributions from researchers and developers worldwide! If you’ve read a new paper that you think belongs in our collection, or if you want to contribute new agent experiments or tools, feel free to open a pull request. Follow the contribution guidelines outlined in `CONTRIBUTING.md`.
 
----
+We welcome contributions from researchers and developers worldwide! If you’ve read a new paper that you think belongs in our collection, or if you want to contribute new agent experiments or tools, feel free to open a pull request. Follow the contribution guidelines outlined in `CONTRIBUTING.md`.
 
 ## **Getting Started**
 
 1. **Clone the repository:**
+
     ```bash
     git clone https://github.com/Qredence/AgenticFrontier.git
     ```
 
-2. **Install dependencies:**
-    You can install the necessary Python packages from the `requirements.txt` file:
-   ```bash
-   ***SOON pip install -r requirements.txt SOON***
-   ```
-
-3. **Explore experiments:**
+2. **Explore experiments:**
     Browse the `experiments/` folder to start exploring pre-built agents and run your own experiments.
 
-4. **Explore research papers:**
+3. **Explore research papers:**
     Navigate to the `papers/` folder to dive into the latest research.
 
----
-
 ## **License**
+
 This repository is fully open-source under the MIT License. Please feel free to use, modify, and share any content within.
 
----
-
 ## **Contact**
+
 Feel free to reach out if you have questions or suggestions:
-- Email: contact@qredence.ai
+
+- Email: <contact@qredence.ai>
 - Twitter: [@agenticfleet](https://twitter.com/agenticfleet)
 
----
-
 ### **Live Long and Prosper in the World of Agentic Systems!**
-
----
 
 Let me know if you'd like any further adjustments!
